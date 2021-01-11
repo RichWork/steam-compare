@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'json'
 require 'net/http'
+require 'openid_connect'
 
 @green = 76561198000976107
 @laggy = 76561197970651383

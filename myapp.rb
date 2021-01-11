@@ -2,6 +2,7 @@
 
 require 'rubygems'
 require 'haml'
+require 'openid_connect'
 require 'sinatra'
 
 require './steam_user'
